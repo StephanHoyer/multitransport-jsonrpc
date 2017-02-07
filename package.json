@@ -29,7 +29,7 @@
     },
     "devDependencies": {
         "async": "*",
-        "nodeunit": "*",
+        "nodeunit": ">=0.11.0",
         "docco-husky": "*",
         "express": "*",
         "jshint": "*"
