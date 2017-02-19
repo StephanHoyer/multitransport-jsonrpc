@@ -28,7 +28,7 @@
         "commander": "*"
     },
     "devDependencies": {
-        "async": "*",
+        "async": ">=2.1.5",
         "nodeunit": "*",
         "docco-husky": "*",
         "express": "*",
