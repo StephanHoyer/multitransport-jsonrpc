@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "queue-flow": "*",
-        "lambda-js": "*",
+        "lambda-js": ">=0.1.5",
         "commander": "*"
     },
     "devDependencies": {
