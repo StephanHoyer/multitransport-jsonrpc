@@ -25,7 +25,7 @@
     "dependencies": {
         "queue-flow": "*",
         "lambda-js": "*",
-        "commander": "*"
+        "commander": ">=2.15.0"
     },
     "devDependencies": {
         "async": "*",
