@@ -32,7 +32,7 @@
         "nodeunit": "*",
         "docco-husky": "*",
         "express": "*",
-        "jshint": "*"
+        "jshint": ">=2.10.0"
     },
     "scripts": {
         "realpublish": "./prepublish.sh",
